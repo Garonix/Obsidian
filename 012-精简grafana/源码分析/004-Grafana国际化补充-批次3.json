@@ -1,0 +1,53 @@
+{
+  "dashboard": {
+    "viz-panel": {
+      "options": {
+        "description": "面板显示选项",
+        "open-edit": "打开编辑",
+        "plugin-type-image": "插件类型图标",
+        "title": "可视化选项",
+        "title-option": "标题选项",
+        "transparent-background": "透明背景"
+      }
+    },
+    "panel-edit": {
+      "alerting-tab": {
+        "dashboard-not-saved": "仪表板未保存",
+        "no-rules": "没有警报规则"
+      }
+    }
+  },
+  "graph": {
+    "container": {
+      "content": "在单个面板中呈现太多系列可能会影响性能并使数据更难读取。请考虑完善您的查询。",
+      "show-all-series": "显示全部 {{length}} 个系列",
+      "show-only-series": "仅显示 {{MAX_NUMBER_OF_TIME_SERIES}} 个系列",
+      "title": "图表"
+    }
+  },
+  "table": {
+    "container": {
+      "content": "表格包含太多数据可能会影响性能。请考虑使用过滤器或限制查询结果。",
+      "show-all-series": "显示全部数据",
+      "show-only-series": "仅显示部分数据"
+    }
+  },
+  "panel-search": {
+    "no-matches": "没有找到匹配的面板",
+    "unsupported-layout": "不支持的布局类型"
+  },
+  "panel-type-filter": {
+    "clear-button": "清除筛选"
+  },
+  "viz-legend": {
+    "right-axis-indicator": "右轴指标"
+  },
+  "viz-tooltip": {
+    "actions-confirmation-input-placeholder": "确认操作",
+    "actions-confirmation-label": "确认",
+    "actions-confirmation-message": "请确认此操作",
+    "footer-add-annotation": "添加注释",
+    "footer-click-to-action": "点击执行操作",
+    "footer-click-to-navigate": "点击导航"
+  }
+} 

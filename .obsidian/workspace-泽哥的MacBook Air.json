@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "2ae19d5eb4b2f919",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc7b24021c8e6683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46bf6db6c3651b44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "011-shell/常用命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "222de4fdd200a41f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "009-面试/003-自我介绍.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bed2ff05bbc89ec",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.runoob.com/linux/linux-comm-awk.html",
+                "title": "Linux awk 命令 | 菜鸟教程",
+                "mode": "reader"
+              }
+            }
+          },
+          {
+            "id": "8764bca3bf72cfbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001-docker/docker常用命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "967952763657461f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d95a917bfb06d690",
+    "type": "split",
+    "children": [
+      {
+        "id": "9252f8f1e6a0b591",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1932086d846e344",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f0a840af7579917",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "docker",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2152d8fecd870642",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51c9a186d1e230b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c38b0f0b9066f6e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "439921e413453ad4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "002-Linux/代理使用方法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f8d3cb6886eaebf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39c3c5d52da1bbca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "77574a4e1b38dbb5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "002-Linux/代理使用方法.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "967952763657461f",
+  "lastOpenFiles": [
+    "001-docker/dockerfile常用指令.md",
+    "001-docker/docker常用命令.md",
+    "002-Linux/SMB配置.md",
+    "002-Linux/001-常用命令/screen.md",
+    "009-面试/如何创建逻辑卷.md",
+    "001-docker/dockerfile中使用代理.md",
+    "001-docker/docker查看容器内部ip地址.md",
+    "001-docker/docker保存与导入镜像.md",
+    "001-docker/002-docker compose安装alist 实现网盘集中管理.md",
+    "011-shell/常用命令.md",
+    "011-shell/shell刷题总结.md",
+    "000-杂项/awk命令.md",
+    "临时网页",
+    "002-Linux/PVE备份虚拟机与恢复.md",
+    "009-面试/003-自我介绍.md",
+    "003-python/python刷题总结.md",
+    "011-shell",
+    "009-面试/002-模拟提问.md",
+    "002-Linux/代理使用方法.md",
+    "002-Linux/服务器代理流程.md",
+    "001-docker/003-docker-compose 使用代理.md",
+    "002-Linux/IPV6问题排查.md",
+    "002-Linux/PVE开启IPV6.md",
+    "001-docker/005-docker bridge开启IPV6.md",
+    "001-docker/docker使用代理proxy拉取镜像.md",
+    "001-docker/001-docker 拉取镜像时进行代理.md",
+    "009-面试/pve开启ipv6.md",
+    "009-面试/示例/CICD.md",
+    "009-面试/示例/附件/Pasted image 20250214144010.png",
+    "009-面试/示例/附件/Pasted image 20250214143923.png",
+    "009-面试/示例/附件",
+    "009-面试/示例",
+    "010-K8S",
+    "003-python/001-常用模块",
+    "009-面试",
+    "002-Linux/001-常用命令",
+    "007-cmake/附件/CMake构建流程1.png",
+    "008-旅游/001-重庆/附件/QQ_1731587442569.png",
+    "008-旅游/001-重庆/241130/附件/QQ_1731586873284.png",
+    "008-旅游/001-重庆/附件/Pasted image 20241127205347.png",
+    "008-旅游/001-重庆/附件/QQ_1731589564281.png",
+    "Pasted image 20241215165650.png",
+    "Pasted image 20241215162028.png",
+    "Pasted image 20241215165716.png",
+    "008-旅游/001-重庆/附件",
+    "007-cmake/附件",
+    "未命名.canvas"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "000-杂项/001-火绒弹窗拦截独立版使用方法.md": {
+      "icon": "🔼"
+    },
+    "000-杂项/002-申请E5开发者账号.md": {
+      "icon": "🔼"
+    }
+  },
+  "bookmarkIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {}
+}

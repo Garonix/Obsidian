@@ -1,0 +1,83 @@
+{
+  "plugins": {
+    "catalog": {
+      "no-updates-available": "所有插件均为最新版本",
+      "update-all": {
+        "all-plugins-updated": "所有插件已更新",
+        "available-header": "可用更新",
+        "button": "全部更新",
+        "cloud-update-message": "云实例将自动更新",
+        "error": "更新失败",
+        "error-status-text": "更新插件时出错",
+        "header": "插件更新",
+        "installed-header": "已安装的插件",
+        "modal-confirmation": "确认更新所有插件",
+        "modal-dismiss": "关闭",
+        "modal-in-progress": "正在更新插件",
+        "modal-title": "更新插件",
+        "name-header": "名称",
+        "update-header": "更新",
+        "update-status-text": "正在更新插件"
+      },
+      "versions": {
+        "confirmation-text-1": "您即将安装版本",
+        "confirmation-text-2": "此操作将替换当前版本",
+        "downgrade-confirm": "确认降级",
+        "downgrade-title": "降级插件"
+      }
+    },
+    "details": {
+      "connections-tab": {
+        "description": "配置此插件的连接设置"
+      },
+      "labels": {
+        "contactGrafanaLabs": "联系 Grafana Labs",
+        "customLinks": "自定义链接",
+        "customLinksTooltip": "添加自定义链接到此插件",
+        "dependencies": "依赖项",
+        "documentation": "文档",
+        "downloads": "下载次数",
+        "from": "来自",
+        "installedVersion": "已安装版本",
+        "lastCommitDate": "最后提交日期",
+        "latestVersion": "最新版本",
+        "license": "许可证",
+        "raiseAnIssue": "提交问题",
+        "reportAbuse": "报告滥用",
+        "reportAbuseTooltip": "报告此插件的滥用行为",
+        "repository": "代码仓库",
+        "signature": "签名",
+        "status": "状态",
+        "updatedAt": "更新于"
+      }
+    },
+    "empty-state": {
+      "message": "未找到插件"
+    },
+    "filter": {
+      "disabled": "已禁用",
+      "sort": "排序方式",
+      "sort-list": "排序列表",
+      "state": "状态"
+    },
+    "plugin-help": {
+      "error": "加载插件帮助时出错",
+      "not-found": "未找到帮助内容"
+    }
+  },
+  "extensions": {
+    "add-new": "添加新扩展",
+    "empty-state": {
+      "message": "尚未安装任何扩展",
+      "more-info": "了解更多关于扩展的信息"
+    },
+    "list": {
+      "delete": "删除扩展",
+      "label": "标签",
+      "loading": "正在加载...",
+      "read-only": "只读",
+      "source": "来源",
+      "target": "目标"
+    }
+  }
+} 

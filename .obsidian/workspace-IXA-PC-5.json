@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "2ae19d5eb4b2f919",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f6200afd38cf056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6bd4988b28eb026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-杂项/github学生认证.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "github学生认证"
+            }
+          },
+          {
+            "id": "729003d8857c6c50",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://daijunfeng.com/archive/plugin/github-student.html",
+                "title": "GitHub 学生认证 | 清淨",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GitHub 学生认证 | 清淨"
+            }
+          },
+          {
+            "id": "4d5cc7a9b8e8a282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-杂项/simpread-GitHub 学生认证  清淨.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "simpread-GitHub 学生认证  清淨"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d95a917bfb06d690",
+    "type": "split",
+    "children": [
+      {
+        "id": "9252f8f1e6a0b591",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1932086d846e344",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6f0a840af7579917",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2152d8fecd870642",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51c9a186d1e230b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c38b0f0b9066f6e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "439921e413453ad4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "003-python/python刷题总结.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "python刷题总结 的反向链接列表"
+            }
+          },
+          {
+            "id": "6f8d3cb6886eaebf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "003-python/python刷题总结.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "python刷题总结 的出链列表"
+            }
+          },
+          {
+            "id": "39c3c5d52da1bbca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "77574a4e1b38dbb5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "003-python/python刷题总结.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "python刷题总结 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "floating": {
+    "id": "a91e87d235295baa",
+    "type": "floating",
+    "children": [
+      {
+        "id": "070192c5a4099fb7",
+        "type": "window",
+        "children": [
+          {
+            "id": "b775f182652750d4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8c3e371247cb7d8b",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://blog.csdn.net/chen_jianjian/article/details/106674040?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-106674040-blog-113415659.pc_relevant_aa2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-106674040-blog-113415659.pc_relevant_aa2&utm_relevant_index=4",
+                    "title": "docker-compose网络配置_docker-compose 网络信息-CSDN博客",
+                    "mode": "blank"
+                  },
+                  "icon": "globe-2",
+                  "title": "docker-compose网络配置_docker-compose 网络信息-CSDN博客"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1015,
+        "y": 140,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4d5cc7a9b8e8a282",
+  "lastOpenFiles": [
+    "000-杂项/img-0.md",
+    "000-杂项/simpread-GitHub 学生认证  清淨.md",
+    "000-杂项/github学生认证.md",
+    "000-杂项/Untitled.md",
+    "000-杂项/simpread-GitHub 学生认证 _ 清淨.md",
+    "002-Linux/001-常用命令与工具/awk.md",
+    "002-Linux/Linux安装zsh配置相关插件主题.md",
+    "002-Linux/代理使用方法.md",
+    "002-Linux/服务器代理流程.md",
+    "002-Linux/001-常用命令与工具/git.md",
+    "001-docker/docker 命令参考.md",
+    "000-杂项/cursor常用指令.md",
+    "002-Linux/Linux下调整分区大小 1.md",
+    "002-Linux/LINUX下调整分区大小.md",
+    "002-Linux/linux连接openvpn服务器报错：ca md too weak.md",
+    "002-Linux/Debian 11 解决 rc.local 开机启动问题.md",
+    "002-Linux/acme申请证书.md",
+    "002-Linux/用户shell类型.md",
+    "002-Linux/修改nginx上传文件限制.md",
+    "002-Linux/纯IPV4 VPS添加IPV6方法.md",
+    "002-Linux/Git常用操作指南.md",
+    "code-example.md",
+    "002-Linux/用户切换.md",
+    "002-Linux/001-常用命令与工具/usermod.md",
+    "002-Linux/001-常用命令与工具/curl.md",
+    "002-Linux/查询用户id.md",
+    "013-1Panel改造/附件/Pasted image 20250314111643.png",
+    "013-1Panel改造/附件/Pasted image 20250313151655.png",
+    "013-1Panel改造/附件/Pasted image 20250313151314.png",
+    "013-1Panel改造/附件",
+    "013-1Panel改造",
+    "012-精简grafana/源码分析/004-Grafana国际化补充-批次4.json",
+    "012-精简grafana/源码分析/004-Grafana国际化补充-批次3.json",
+    "012-精简grafana/源码分析/004-Grafana国际化补充-批次2.json",
+    "012-精简grafana/源码分析/004-Grafana国际化补充-批次1.json",
+    "013-TypeScript",
+    "012-精简grafana/源码分析",
+    "临时网页",
+    "011-shell",
+    "009-面试/示例/附件/Pasted image 20250214144010.png",
+    "009-面试/示例/附件/Pasted image 20250214143923.png",
+    "007-cmake/附件/CMake构建流程1.png",
+    "008-旅游/001-重庆/附件/QQ_1731587442569.png",
+    "008-旅游/001-重庆/241130/附件/QQ_1731586873284.png",
+    "008-旅游/001-重庆/附件/Pasted image 20241127205347.png",
+    "008-旅游/001-重庆/附件/QQ_1731589564281.png",
+    "未命名.canvas"
+  ]
+}

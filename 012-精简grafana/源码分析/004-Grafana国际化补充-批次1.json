@@ -1,0 +1,82 @@
+{
+  "action-editor": {
+    "modal": {
+      "cancel-button": "取消",
+      "save-button": "保存"
+    }
+  },
+  "admin": {
+    "anon-users": {
+      "not-found": "未找到匿名用户"
+    },
+    "edit-org": {
+      "access-denied": "访问被拒绝",
+      "heading": "编辑组织",
+      "update-button": "更新",
+      "users-heading": "用户"
+    },
+    "feature-toggles": {
+      "sub-title": "功能开关"
+    },
+    "get-enterprise": {
+      "contact-us": "联系我们",
+      "description": "了解更多关于 Grafana Enterprise 的信息",
+      "features-heading": "企业版功能",
+      "included-description": "您的 Grafana Enterprise 许可证包含：",
+      "included-heading": "包含的功能",
+      "service-title": "企业服务",
+      "team-sync-details": "同步团队成员",
+      "title": "获取 Grafana Enterprise"
+    }
+  },
+  "alerting": {
+    "alert": {
+      "alert-state": "警报状态",
+      "annotations": "注释",
+      "evaluation": "评估",
+      "evaluation-paused": "评估已暂停",
+      "evaluation-paused-description": "警报规则评估已暂停",
+      "last-evaluated": "最后评估时间",
+      "last-evaluation-duration": "最后评估持续时间",
+      "last-updated-at": "最后更新时间",
+      "last-updated-by": "最后更新者",
+      "no-annotations": "无注释",
+      "pending-period": "等待期",
+      "rule": "规则",
+      "rule-identifier": "规则标识符",
+      "rule-type": "规则类型",
+      "state-error-timeout": "错误：超时",
+      "state-no-data": "无数据"
+    }
+  },
+  "dashboard": {
+    "default-layout": {
+      "description": "默认布局",
+      "name": "默认",
+      "item-options": {
+        "repeat": {
+          "direction": {
+            "horizontal": "水平",
+            "title": "方向",
+            "vertical": "垂直"
+          },
+          "max": "最大重复次数",
+          "title": "重复选项",
+          "variable": {
+            "description": "选择要重复的变量",
+            "title": "变量"
+          }
+        }
+      }
+    },
+    "edit-pane": {
+      "elements": {
+        "dashboard": "仪表板",
+        "objects": "对象",
+        "panels": "面板",
+        "rows": "行",
+        "tabs": "标签页"
+      }
+    }
+  }
+} 

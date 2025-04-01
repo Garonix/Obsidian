@@ -1,0 +1,100 @@
+{
+  "admin": {
+    "ldap-sync-info": {
+      "title": "LDAP同步信息"
+    },
+    "ldap-user-groups": {
+      "no-org-found": "未找到组织"
+    },
+    "ldap-user-info": {
+      "no-team": "无团队"
+    },
+    "org-users": {
+      "not-editable": "不可编辑"
+    },
+    "orgs": {
+      "delete-body": "此操作将删除所有仪表板、警报规则和配置设置",
+      "id-header": "ID",
+      "name-header": "名称",
+      "new-org-button": "新建组织"
+    },
+    "server-settings": {
+      "alerts-button": "警报",
+      "dashboards-button": "仪表板",
+      "data-sources-button": "数据源",
+      "not-found": "未找到设置",
+      "title": "服务器设置",
+      "users-button": "用户"
+    },
+    "settings": {
+      "info-description": "系统配置和设置"
+    },
+    "upgrade-info": {
+      "title": "版本升级信息"
+    },
+    "user-orgs": {
+      "add-button": "添加组织",
+      "change-role-button": "更改角色",
+      "external-user-tooltip": "此用户由外部系统管理",
+      "remove-button": "移除",
+      "role-not-editable": "角色不可编辑",
+      "title": "组织"
+    },
+    "user-orgs-modal": {
+      "add-button": "添加",
+      "cancel-button": "取消"
+    },
+    "user-permissions": {
+      "change-button": "更改",
+      "grafana-admin-key": "Grafana管理员",
+      "grafana-admin-no": "否",
+      "grafana-admin-yes": "是",
+      "title": "用户权限"
+    },
+    "user-profile": {
+      "delete-button": "删除用户",
+      "disable-button": "禁用用户",
+      "edit-button": "编辑",
+      "enable-button": "启用用户",
+      "title": "用户资料"
+    },
+    "user-sessions": {
+      "browser-column": "浏览器",
+      "force-logout-all-button": "强制所有用户退出登录",
+      "force-logout-button": "强制退出登录",
+      "ip-column": "IP地址",
+      "last-seen-column": "最后在线时间",
+      "logged-on-column": "登录时间",
+      "title": "用户会话"
+    }
+  },
+  "dashboard-settings": {
+    "dashboard-delete-button": "删除仪表板",
+    "delete-modal": {
+      "confirmation-text": "您确定要删除此仪表板吗？",
+      "delete-button": "删除",
+      "title": "删除仪表板"
+    },
+    "general": {
+      "auto-refresh-description": "自动刷新整个仪表板的频率",
+      "panels-preload-description": "预加载面板数据以提高性能",
+      "panels-preload-label": "预加载面板数据"
+    }
+  },
+  "data-source-list": {
+    "empty-state": {
+      "button-title": "添加您的第一个数据源",
+      "pro-tip": "提示：从最常用的数据源开始",
+      "title": "还没有数据源"
+    }
+  },
+  "data-source-testing-status-page": {
+    "error-more-details-link": "查看更多错误详情",
+    "success-more-details-links": "查看更多详情"
+  },
+  "data-sources": {
+    "empty-state": {
+      "message": "需要添加数据源才能开始创建仪表板"
+    }
+  }
+} 

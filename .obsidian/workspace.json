@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "2ae19d5eb4b2f919",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f6200afd38cf056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85e0d7daed676f71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002-Linux/001-常用命令与工具/git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d95a917bfb06d690",
+    "type": "split",
+    "children": [
+      {
+        "id": "9252f8f1e6a0b591",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1932086d846e344",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6f0a840af7579917",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2152d8fecd870642",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51c9a186d1e230b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c38b0f0b9066f6e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "439921e413453ad4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "003-python/python刷题总结.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "python刷题总结 的反向链接列表"
+            }
+          },
+          {
+            "id": "6f8d3cb6886eaebf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "003-python/python刷题总结.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "python刷题总结 的出链列表"
+            }
+          },
+          {
+            "id": "39c3c5d52da1bbca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "77574a4e1b38dbb5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "003-python/python刷题总结.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "python刷题总结 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:打开/创建今天的日记": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "85e0d7daed676f71",
+  "lastOpenFiles": [
+    "README.md",
+    "002-Linux/代理使用方法.md",
+    "010-K8S/K8S 安装.md",
+    "000-杂项/simpread-GitHub 学生认证.md",
+    "002-Linux/SSH远程登录.md",
+    "002-Linux/UFW使用方法.md",
+    "code-example.md",
+    "002-Linux/ansible 安装过程.md",
+    "002-Linux/001-常用命令与工具/tee.md",
+    "002-Linux/001-常用命令与工具/git.md",
+    "002-Linux/001-常用命令与工具/screen.md",
+    "001-docker/docker 使用代理proxy拉取镜像.md",
+    "001-docker/docker 安装.md",
+    "002-Linux/001-常用命令与工具/curl.md",
+    "000-杂项/Untitled.md",
+    "000-杂项/V2Ray 自定义路由设置规则.md",
+    "001-docker/docker swarm 使用compose.md",
+    "001-docker/docker-compose 网络配置.md",
+    "001-docker/dockerfile 指令参考.md",
+    "002-Linux/acme 申请证书.md",
+    "001-docker/docker bridge 开启IPV6.md",
+    "001-docker/docker compose 安装alist.md",
+    "002-Linux/ansible 日常使用.md",
+    "000-杂项/img-0.md",
+    "000-杂项/github学生认证.md",
+    "000-杂项/simpread-GitHub 学生认证 _ 清淨.md",
+    "013-1Panel改造/附件/Pasted image 20250314111643.png",
+    "013-1Panel改造/附件/Pasted image 20250313151655.png",
+    "013-1Panel改造/附件/Pasted image 20250313151314.png",
+    "013-1Panel改造/附件",
+    "013-1Panel改造",
+    "012-精简grafana/源码分析/004-Grafana国际化补充-批次4.json",
+    "012-精简grafana/源码分析/004-Grafana国际化补充-批次3.json",
+    "012-精简grafana/源码分析/004-Grafana国际化补充-批次2.json",
+    "012-精简grafana/源码分析/004-Grafana国际化补充-批次1.json",
+    "013-TypeScript",
+    "012-精简grafana/源码分析",
+    "临时网页",
+    "011-shell",
+    "009-面试/示例/附件/Pasted image 20250214144010.png",
+    "009-面试/示例/附件/Pasted image 20250214143923.png",
+    "007-cmake/附件/CMake构建流程1.png",
+    "008-旅游/001-重庆/附件/QQ_1731587442569.png",
+    "008-旅游/001-重庆/241130/附件/QQ_1731586873284.png",
+    "008-旅游/001-重庆/附件/Pasted image 20241127205347.png",
+    "008-旅游/001-重庆/附件/QQ_1731589564281.png",
+    "未命名.canvas"
+  ]
+}
