@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "004-C++/000-项目结构.md",
-                "bFile": "004-C++/000-项目结构.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 000-项目结构"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -180,8 +180,8 @@
   },
   "active": "5586c29fe309339e",
   "lastOpenFiles": [
-    "002-Linux/代理使用方法.md",
     "README.md",
+    "002-Linux/代理使用方法.md",
     "2025-04-08.md",
     "014-服务器监控调研/PromLens.md",
     "014-服务器监控调研/nightingale.md",
