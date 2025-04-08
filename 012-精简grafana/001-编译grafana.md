@@ -28,9 +28,11 @@ yarn --version
 # 安装前端依赖 
 yarn install 
 # 编译
+export NODE_OPTIONS="--max_old_space_size=4096"
 yarn build 
 ``` 
 ## 6. 编译后端
+需要安装go-1.23版本
 ```bash 
 make build-go 
 ``` 

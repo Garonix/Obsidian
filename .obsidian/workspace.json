@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0f6200afd38cf056",
+        "id": "b3640cf7bffdd4e9",
         "type": "tabs",
         "children": [
           {
-            "id": "85e0d7daed676f71",
+            "id": "5586c29fe309339e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "002-Linux/001-常用命令与工具/git.md",
-                "mode": "source",
-                "source": false
+                "aFile": "004-C++/000-项目结构.md",
+                "bFile": "004-C++/000-项目结构.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "git"
+              "icon": "diff",
+              "title": "Diff: 000-项目结构"
             }
           }
         ]
@@ -137,18 +137,27 @@
             }
           },
           {
-            "id": "77574a4e1b38dbb5",
+            "id": "52916e5c46f578f0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "70676debe525fab3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-python/python刷题总结.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "python刷题总结 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -156,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,37 +174,40 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85e0d7daed676f71",
+  "active": "5586c29fe309339e",
   "lastOpenFiles": [
-    "README.md",
     "002-Linux/代理使用方法.md",
+    "README.md",
+    "2025-04-08.md",
+    "014-服务器监控调研/PromLens.md",
+    "014-服务器监控调研/nightingale.md",
+    "002-Linux/自启服务配置.md",
+    "005-windows/微软拼音快捷输入时间戳.md",
+    "005-windows/附件/Pasted image 20250408152655.png",
+    "005-windows/附件",
+    "005-windows/删除此电脑中第三方软件图标.md",
+    "012-精简grafana/调研.md",
+    "005-windows/win家庭版开启组策略编辑器.md",
+    "012-精简grafana/源码分析/一些想法.md",
+    "012-精简grafana/003-登录页面定制化.md",
+    "014-服务器监控调研/Beszel.md",
+    "014-服务器监控调研/chronograf.md",
+    "014-服务器监控调研/netdata.md",
+    "014-服务器监控调研/redash.md",
+    "014-服务器监控调研/VictoriaMetrics Dashboard UI.md",
+    "012-精简grafana/001-编译grafana.md",
+    "012-精简grafana/002-前端开发准备.md",
+    "000-杂项/001-火绒弹窗拦截独立版使用方法.md",
+    "2025-04-02.md",
+    "000-杂项/002-申请E5开发者账号.md",
     "010-K8S/K8S 安装.md",
     "000-杂项/simpread-GitHub 学生认证.md",
     "002-Linux/SSH远程登录.md",
     "002-Linux/UFW使用方法.md",
-    "code-example.md",
-    "002-Linux/ansible 安装过程.md",
-    "002-Linux/001-常用命令与工具/tee.md",
-    "002-Linux/001-常用命令与工具/git.md",
-    "002-Linux/001-常用命令与工具/screen.md",
-    "001-docker/docker 使用代理proxy拉取镜像.md",
-    "001-docker/docker 安装.md",
-    "002-Linux/001-常用命令与工具/curl.md",
-    "000-杂项/Untitled.md",
-    "000-杂项/V2Ray 自定义路由设置规则.md",
-    "001-docker/docker swarm 使用compose.md",
-    "001-docker/docker-compose 网络配置.md",
-    "001-docker/dockerfile 指令参考.md",
-    "002-Linux/acme 申请证书.md",
-    "001-docker/docker bridge 开启IPV6.md",
-    "001-docker/docker compose 安装alist.md",
-    "002-Linux/ansible 日常使用.md",
-    "000-杂项/img-0.md",
-    "000-杂项/github学生认证.md",
-    "000-杂项/simpread-GitHub 学生认证 _ 清淨.md",
     "013-1Panel改造/附件/Pasted image 20250314111643.png",
     "013-1Panel改造/附件/Pasted image 20250313151655.png",
     "013-1Panel改造/附件/Pasted image 20250313151314.png",
@@ -209,14 +220,12 @@
     "013-TypeScript",
     "012-精简grafana/源码分析",
     "临时网页",
-    "011-shell",
     "009-面试/示例/附件/Pasted image 20250214144010.png",
     "009-面试/示例/附件/Pasted image 20250214143923.png",
     "007-cmake/附件/CMake构建流程1.png",
     "008-旅游/001-重庆/附件/QQ_1731587442569.png",
     "008-旅游/001-重庆/241130/附件/QQ_1731586873284.png",
     "008-旅游/001-重庆/附件/Pasted image 20241127205347.png",
-    "008-旅游/001-重庆/附件/QQ_1731589564281.png",
     "未命名.canvas"
   ]
 }
