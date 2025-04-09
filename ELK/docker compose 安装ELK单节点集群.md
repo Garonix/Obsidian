@@ -1,78 +1,122 @@
-# 使用 docker-compose 部署 ELK
+**1. docker-compose 配置文件：**
 
-`docker-compose.yml` 文件内容：
-
-```yml
-version: '3'
+```yaml
 services:
   elasticsearch:
-    image: elasticsearch:7.7.1
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.17.4
     container_name: elasticsearch
     environment:
-      - "cluster.name=elasticsearch" #设置集群名称为elasticsearch
-      - "discovery.type=single-node" #以单一节点模式启动
-      - "ES_JAVA_OPTS=-Xms512m -Xmx1024m" #设置使用jvm内存大小
-    volumes:
-      - /data/docker/elfk/elasticsearch/plugins:/usr/share/elasticsearch/plugins # 插件文件挂载
-      - /data/docker/elfk/elasticsearch/data:/usr/share/elasticsearch/data # 数据文件挂载
+      - discovery.type=single-node
+      - ES_JAVA_OPTS=-Xms1g -Xmx1g
+      - xpack.security.enabled=false
     ports:
-      - 9200:9200
-    restart: always
+      - "9200:9200"
+      - "9300:9300"
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+    networks:
+      - elk
+    cap_add:
+      - SYS_RESOURCE
+
   kibana:
-    image: kibana:7.7.1
+    image: docker.elastic.co/kibana/kibana:8.17.4
     container_name: kibana
-    links:
-      - elasticsearch:es #可以用es这个域名访问elasticsearch服务
-    depends_on:
-      - elasticsearch #kibana在elasticsearch启动之后再启动
     environment:
-      - "elasticsearch.hosts=http://es:9200" #设置访问elasticsearch的地址
+      - ELASTICSEARCH_HOSTS=["http://0.0.0.0:9200"]
     ports:
-      - 5601:5601
-    restart: always
+      - "5601:5601"
+    depends_on:
+      - elasticsearch
+    networks:
+      - elk
+
   logstash:
-    image: logstash:7.7.1
+    image: docker.elastic.co/logstash/logstash:8.17.4
     container_name: logstash
-    volumes:
-      - /Users/zhouxinlei/docker/elfk/logstash/logstash.conf:/usr/share/logstash/pipeline/logstash.conf
-    depends_on:
-      - elasticsearch #kibana在elasticsearch启动之后再启动
-    links:
-      - elasticsearch:es #可以用es这个域名访问elasticsearch服务
     ports:
-      - 5044:5044
-    restart: always
-  filebeat:
-    image: elastic/filebeat:7.7.1
-    container_name: filebeat
-    links:
-      - logstash:logstash #可以用es这个域名访问elasticsearch服务
+      - "5044:5044"
+      - "9600:9600"
     volumes:
-      - /Users/zhouxinlei/logs/:/var/logs/springboot/ # 宿主机实际应用日志文件映射到容器内部
-      - /Users/zhouxinlei/docker/elfk/filebeat/filebeat.yml:/usr/share/filebeat/filebeat.yml
+      - ./logstash/pipeline:/usr/share/logstash/pipeline
+      - ./logstash/config:/usr/share/logstash/config/
+    environment:
+      - LS_JAVA_OPTS=-Xms512m -Xmx512m
+      - XPACK_MONITORING_ENABLED=true
+      - XPACK_MONITORING_ELASTICSEARCH_HOSTS=["http://0.0.0.0:9200"]
     depends_on:
-      - logstash #kibana在elasticsearch启动之后再启动
-    restart: always
+      - elasticsearch
+    networks:
+      - elk
 
+  filebeat:
+    image: docker.elastic.co/beats/filebeat:8.17.4
+    container_name: filebeat
+    user: root
+    volumes:
+      - ./filebeat/filebeat.yml:/usr/share/filebeat/filebeat.yml
+      - /var/log:/var/log:ro
+    depends_on:
+      - logstash
+    networks:
+      - elk
+    restart: on-failure
+
+volumes:
+  esdata:
+    driver: local
+
+networks:
+  elk:
+    driver: bridge
 ```
 
-运行`docker-compose`脚本：
+**需要注意的点：** 确保 `volumes` 部分正确映射了主机上的配置文件和数据目录到容器内的相应路径。
 
-```bash
-docker-compose up -d
+**2. filebeat 配置文件 (`filebeat.yml`)：**
+
+```yaml
+filebeat.inputs:
+  - type: log
+    enabled: true
+    paths:
+      - /var/log/*.log
+
+output.logstash:
+  hosts: ["0.0.0.0:5044"]
+
+processors:
+  - add_host_metadata:
+      when.not.contains.tags: forwarded
+  - add_fields:
+      target: beat
+      fields:
+        hostname: filebeat
 ```
 
-- 在logstash中安装json_lines插件
+**需要注意的点：** 仔细配置 `filebeat.inputs.paths` 以指向你实际需要收集的日志文件路径，并设置正确的 `output.logstash.hosts`。
 
-```shell
-# 进入logstash容器
-docker exec -it logstash /bin/bash
-# 进入bin目录
-cd /bin/
-# 安装插件
-logstash-plugin install logstash-codec-json_lines
-# 退出容器
-exit
-# 重启logstash服务
-docker restart logstash
+**3. logstash 配置文件 (`.conf` 文件，例如 `logstash.conf`)：**
+
 ```
+input {
+  beats {
+    port => 5044
+  }
+}
+
+filter {
+  grok {
+    match => { "message" => "%{COMBINEDAPACHELOG}" }
+  }
+}
+
+output {
+  elasticsearch {
+    hosts => ["0.0.0.0:9200"]
+    index => "filebeat-%{+YYYY.MM.dd}"
+  }
+}
+```
+
+**需要注意的点：** 在 `filter` 部分，特别是 `grok` 过滤器的 `match` 部分，你需要根据你的实际日志格式编写正确的模式。
