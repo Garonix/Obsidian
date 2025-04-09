@@ -11,14 +11,14 @@
             "id": "5586c29fe309339e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "ELK/docker compose 安装ELK单节点集群.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "docker compose 安装ELK单节点集群"
             }
           }
         ]
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1932086d846e344",
+  "active": "5586c29fe309339e",
   "lastOpenFiles": [
+    "ELK/docker compose 安装ELK单节点集群.md",
     "ELK",
     "README.md",
     "002-Linux/代理使用方法.md",
@@ -219,7 +221,6 @@
     "012-精简grafana/源码分析/004-Grafana国际化补充-批次1.json",
     "013-TypeScript",
     "012-精简grafana/源码分析",
-    "临时网页",
     "009-面试/示例/附件/Pasted image 20250214144010.png",
     "009-面试/示例/附件/Pasted image 20250214143923.png",
     "007-cmake/附件/CMake构建流程1.png",
