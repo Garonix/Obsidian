@@ -132,8 +132,6 @@ systemctl restart docker
 
 ### 安装Docker CRI (可选，不推荐)
 
-^87fcd7
-
 ```bash
 # 克隆 Mirantis 的 cri-dockerd 仓库，--depth 1 表示只克隆最新的一次提交，减少克隆的数据量
 git clone https://github.com/Mirantis/cri-dockerd.git --depth 1
