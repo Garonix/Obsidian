@@ -178,8 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5586c29fe309339e",
+  "active": "d1932086d846e344",
   "lastOpenFiles": [
+    "ELK",
     "README.md",
     "002-Linux/代理使用方法.md",
     "2025-04-08.md",
@@ -207,7 +208,6 @@
     "010-K8S/K8S 安装.md",
     "000-杂项/simpread-GitHub 学生认证.md",
     "002-Linux/SSH远程登录.md",
-    "002-Linux/UFW使用方法.md",
     "013-1Panel改造/附件/Pasted image 20250314111643.png",
     "013-1Panel改造/附件/Pasted image 20250313151655.png",
     "013-1Panel改造/附件/Pasted image 20250313151314.png",
