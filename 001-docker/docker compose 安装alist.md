@@ -1,10 +1,8 @@
 ## 一、准备工作  
-<ul>
-	<li>一台服务器</li>
-	<li>docker compose</li>
-	<li><b>非必须</b>：nginx proxy manager
-	<li><b>非必须</b>：一个域名</li>
-</ul>
+* 一台服务器
+* docker compose
+* **非必须**：nginx proxy manager
+* **非必须**：一个域名
 ## 二、安装alist  
 ### 1.准备alist工作区  
 ```bash
