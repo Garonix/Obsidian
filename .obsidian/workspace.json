@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010-K8S/K8S 安装.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K8S 安装"
+              "title": "README"
             }
           }
         ]
@@ -178,10 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1932086d846e344",
+  "active": "5586c29fe309339e",
   "lastOpenFiles": [
-    "001-docker/docker 命令参考.md",
     "016-ELK/docker compose 安装ELK单节点集群.md",
+    "010-K8S/K8S 安装.md",
+    "001-docker/docker 命令参考.md",
     "016-ELK",
     "README.md",
     "002-Linux/代理使用方法.md",
@@ -207,7 +208,6 @@
     "000-杂项/001-火绒弹窗拦截独立版使用方法.md",
     "2025-04-02.md",
     "000-杂项/002-申请E5开发者账号.md",
-    "010-K8S/K8S 安装.md",
     "000-杂项/simpread-GitHub 学生认证.md",
     "013-1Panel改造/附件/Pasted image 20250314111643.png",
     "013-1Panel改造/附件/Pasted image 20250313151655.png",
