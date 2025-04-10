@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,11 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5586c29fe309339e",
+  "active": "d1932086d846e344",
   "lastOpenFiles": [
     "001-docker/docker 命令参考.md",
-    "ELK/docker compose 安装ELK单节点集群.md",
-    "ELK",
+    "016-ELK/docker compose 安装ELK单节点集群.md",
+    "016-ELK",
     "README.md",
     "002-Linux/代理使用方法.md",
     "2025-04-08.md",
