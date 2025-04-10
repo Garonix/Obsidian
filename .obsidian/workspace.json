@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "011-shell/shell刷题总结.md",
+                "file": "001-docker/docker compose 安装alist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shell刷题总结"
+              "title": "docker compose 安装alist"
             }
           }
         ]
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1932086d846e344",
+  "active": "5586c29fe309339e",
   "lastOpenFiles": [
+    "011-shell/shell刷题总结.md",
     "011-shell/常用命令.md",
     "009-面试/001-先前工作.md",
     "004-C++/ChatGPT-虚函数.md",
@@ -210,7 +212,6 @@
     "012-精简grafana/003-登录页面定制化.md",
     "014-服务器监控调研/Beszel.md",
     "014-服务器监控调研/chronograf.md",
-    "014-服务器监控调研/netdata.md",
     "013-1Panel改造/附件/Pasted image 20250314111643.png",
     "013-1Panel改造/附件/Pasted image 20250313151655.png",
     "013-1Panel改造/附件/Pasted image 20250313151314.png",
