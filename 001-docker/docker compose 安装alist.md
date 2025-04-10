@@ -5,7 +5,6 @@
 	<li><b>非必须</b>：nginx proxy manager
 	<li><b>非必须</b>：一个域名</li>
 </ul>
-
 ## 二、安装alist  
 ### 1.准备alist工作区  
 ```bash
