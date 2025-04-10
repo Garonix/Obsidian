@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "017-github/github工作流实例.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "github工作流实例"
             }
           }
         ]
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +181,14 @@
   },
   "active": "5586c29fe309339e",
   "lastOpenFiles": [
+    "README.md",
+    "017-github/github工作流实例.md",
+    "未命名",
+    "017-github",
     "016-ELK/docker compose 安装ELK单节点集群.md",
     "010-K8S/K8S 安装.md",
     "001-docker/docker 命令参考.md",
     "016-ELK",
-    "README.md",
     "002-Linux/代理使用方法.md",
     "2025-04-08.md",
     "014-服务器监控调研/PromLens.md",
@@ -208,7 +212,6 @@
     "000-杂项/001-火绒弹窗拦截独立版使用方法.md",
     "2025-04-02.md",
     "000-杂项/002-申请E5开发者账号.md",
-    "000-杂项/simpread-GitHub 学生认证.md",
     "013-1Panel改造/附件/Pasted image 20250314111643.png",
     "013-1Panel改造/附件/Pasted image 20250313151655.png",
     "013-1Panel改造/附件/Pasted image 20250313151314.png",
@@ -218,8 +221,6 @@
     "012-精简grafana/源码分析/004-Grafana国际化补充-批次3.json",
     "012-精简grafana/源码分析/004-Grafana国际化补充-批次2.json",
     "012-精简grafana/源码分析/004-Grafana国际化补充-批次1.json",
-    "013-TypeScript",
-    "012-精简grafana/源码分析",
     "009-面试/示例/附件/Pasted image 20250214144010.png",
     "009-面试/示例/附件/Pasted image 20250214143923.png",
     "007-cmake/附件/CMake构建流程1.png",
