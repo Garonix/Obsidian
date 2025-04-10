@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "017-github/github工作流实例.md",
+                "file": "011-shell/shell刷题总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "github工作流实例"
+              "title": "shell刷题总结"
             }
           }
         ]
@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,10 +178,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5586c29fe309339e",
+  "active": "d1932086d846e344",
   "lastOpenFiles": [
-    "README.md",
+    "011-shell/常用命令.md",
+    "009-面试/001-先前工作.md",
+    "004-C++/ChatGPT-虚函数.md",
+    "004-C++/001-C++部分1.md",
+    "004-C++/ChatGPT-C++_Class_Syntax_Fix.md",
+    "004-C++/000-项目结构.md",
+    "001-docker/docker 使用代理proxy拉取镜像.md",
     "017-github/github工作流实例.md",
+    "README.md",
     "未命名",
     "017-github",
     "016-ELK/docker compose 安装ELK单节点集群.md",
@@ -205,13 +211,6 @@
     "014-服务器监控调研/Beszel.md",
     "014-服务器监控调研/chronograf.md",
     "014-服务器监控调研/netdata.md",
-    "014-服务器监控调研/redash.md",
-    "014-服务器监控调研/VictoriaMetrics Dashboard UI.md",
-    "012-精简grafana/001-编译grafana.md",
-    "012-精简grafana/002-前端开发准备.md",
-    "000-杂项/001-火绒弹窗拦截独立版使用方法.md",
-    "2025-04-02.md",
-    "000-杂项/002-申请E5开发者账号.md",
     "013-1Panel改造/附件/Pasted image 20250314111643.png",
     "013-1Panel改造/附件/Pasted image 20250313151655.png",
     "013-1Panel改造/附件/Pasted image 20250313151314.png",
