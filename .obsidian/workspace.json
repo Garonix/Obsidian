@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006-游戏/泰拉瑞亚TShock配置文件全文翻译.md",
+                "file": "004-git/github工作流实例.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "泰拉瑞亚TShock配置文件全文翻译"
+              "title": "github工作流实例"
             }
           }
         ]
@@ -180,15 +180,17 @@
   },
   "active": "00450dc85a11ea53",
   "lastOpenFiles": [
+    "000-杂项/simpread-GitHub 学生认证.md",
+    "000-杂项/Untitled.md",
+    "006-游戏/泰拉瑞亚TShock配置文件全文翻译.md",
     "README.md",
     "000-杂项/index.md",
-    "006-游戏/泰拉瑞亚TShock配置文件全文翻译.md",
-    "017-github/github工作流实例.md",
+    "004-git/github工作流实例.md",
     "007-cmake/001-CMake 简介.md",
     "007-cmake/002-CMake 构建流程.md",
     "007-cmake/004-CMake 高级特性.md",
     "007-cmake/附件/CMake构建流程2.png",
-    "017-github/git 子模块.md",
+    "004-git/git 子模块.md",
     "015-redash二次开发/本地开发.md",
     "001-docker/docker compose 安装alist.md",
     "011-shell/shell刷题总结.md",
@@ -200,7 +202,7 @@
     "004-C++/000-项目结构.md",
     "001-docker/docker 使用代理proxy拉取镜像.md",
     "未命名",
-    "017-github",
+    "004-git",
     "016-ELK/docker compose 安装ELK单节点集群.md",
     "010-K8S/K8S 安装.md",
     "001-docker/docker 命令参考.md",
@@ -208,8 +210,6 @@
     "002-Linux/代理使用方法.md",
     "2025-04-08.md",
     "014-服务器监控调研/PromLens.md",
-    "014-服务器监控调研/nightingale.md",
-    "002-Linux/自启服务配置.md",
     "005-windows/附件/Pasted image 20250408152655.png",
     "005-windows/附件",
     "013-1Panel改造/附件/Pasted image 20250314111643.png",
