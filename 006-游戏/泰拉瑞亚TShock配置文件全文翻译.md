@@ -1,8 +1,5 @@
 [[干货]泰拉瑞亚TShock配置文件全文翻译复制即用（1.4.0.5，1.4.3.6） - 哔哩哔哩](https://www.bilibili.com/read/cv15882660?spm_id_from=333.999.0.0) 
 
-
-![](../_resources/02db465212d3c374a43c60fa2625cc1c_c52934f2664645a2a.png)
-
 {
 
   "ServerPassword": "", //服务器密码
@@ -702,8 +699,6 @@
   }
 
 }
-
-![](../_resources/4adb9255ada5b97061e610b682b86367_3c3905fffe454ea28.png)
 
 在翻译的时候查到了这个wiki https://wiki.snkms.com/wiki/TShock\_設定檔配置及權限介紹
 
