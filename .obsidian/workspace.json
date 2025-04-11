@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "015-redash二次开发/本地开发.md",
+                "file": "017-github/git 子模块.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "本地开发"
+              "title": "git 子模块"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "00450dc85a11ea53",
   "lastOpenFiles": [
+    "017-github/github工作流实例.md",
+    "017-github/git 子模块.md",
     "015-redash二次开发/本地开发.md",
     "README.md",
     "001-docker/docker compose 安装alist.md",
@@ -191,7 +193,6 @@
     "004-C++/ChatGPT-C++_Class_Syntax_Fix.md",
     "004-C++/000-项目结构.md",
     "001-docker/docker 使用代理proxy拉取镜像.md",
-    "017-github/github工作流实例.md",
     "未命名",
     "017-github",
     "016-ELK/docker compose 安装ELK单节点集群.md",
@@ -210,7 +211,6 @@
     "012-精简grafana/调研.md",
     "005-windows/win家庭版开启组策略编辑器.md",
     "012-精简grafana/源码分析/一些想法.md",
-    "012-精简grafana/003-登录页面定制化.md",
     "013-1Panel改造/附件/Pasted image 20250314111643.png",
     "013-1Panel改造/附件/Pasted image 20250313151655.png",
     "013-1Panel改造/附件/Pasted image 20250313151314.png",
