@@ -23,4 +23,4 @@ CMake 是个一个开源的**跨平台**自动化构建系统，用来管理软�
 >如 make、ninja、msbuild
 
 <img src = "https://camo.githubusercontent.com/76f83b91cac93e85ed2e6f7c0bf075c52d9c84333ad7660cfe86632be4fac761/68747470733a2f2f696d672e7a656765732e746f702f483741784c5a2e706e67" width = "500px">
-![CMake构建流程1](../附件/CMake构建流程1.png|100x200)
+![CMake构建流程1](./附件/CMake构建流程1.png|100x200)
