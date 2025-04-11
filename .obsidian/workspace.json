@@ -11,14 +11,14 @@
             "id": "00450dc85a11ea53",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": ""
+                "file": "015-redash二次开发/本地开发.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: README"
+              "icon": "lucide-file",
+              "title": "本地开发"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "00450dc85a11ea53",
   "lastOpenFiles": [
+    "015-redash二次开发/本地开发.md",
     "README.md",
     "001-docker/docker compose 安装alist.md",
     "011-shell/shell刷题总结.md",
@@ -193,6 +194,7 @@
     "017-github/github工作流实例.md",
     "未命名",
     "017-github",
+    "016-ELK/docker compose 安装ELK单节点集群.md",
     "010-K8S/K8S 安装.md",
     "001-docker/docker 命令参考.md",
     "016-ELK",
@@ -209,7 +211,6 @@
     "005-windows/win家庭版开启组策略编辑器.md",
     "012-精简grafana/源码分析/一些想法.md",
     "012-精简grafana/003-登录页面定制化.md",
-    "014-服务器监控调研/Beszel.md",
     "013-1Panel改造/附件/Pasted image 20250314111643.png",
     "013-1Panel改造/附件/Pasted image 20250313151655.png",
     "013-1Panel改造/附件/Pasted image 20250313151314.png",
