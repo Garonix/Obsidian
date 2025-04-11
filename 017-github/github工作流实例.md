@@ -47,7 +47,7 @@
           - name: 👀 检查子模块更新
             id: check_submodule
             run: |
-              cd src/docs/Obisidian # 替换为你的子模块路径
+              cd src/docs/Obsidian # 替换为你的子模块路径
               git fetch origin master # 或你子模块的主分支
               if [[ -n "$(git log --oneline HEAD..origin/master)" ]]; then
                 echo "子模块发现新提交, 准备更新……"
@@ -66,7 +66,7 @@
             run: |
               git config --global user.email "你的邮箱"
               git config --global user.name "你的用户名"
-              git add src/docs/Obisidian # 替换为你的子模块路径
+              git add src/docs/Obsidian # 替换为你的子模块路径
               git commit -m "文章更新"
               git push
     ```
