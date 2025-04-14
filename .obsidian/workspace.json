@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-git/github工作流实例.md",
+                "file": "015-redash二次开发/本地开发.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "github工作流实例"
+              "title": "本地开发"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.5
   },
   "right": {
     "id": "51c9a186d1e230b6",
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,12 +181,12 @@
   },
   "active": "00450dc85a11ea53",
   "lastOpenFiles": [
+    "004-git/github工作流实例.md",
     "000-杂项/simpread-GitHub 学生认证.md",
     "000-杂项/Untitled.md",
     "006-游戏/泰拉瑞亚TShock配置文件全文翻译.md",
     "README.md",
     "000-杂项/index.md",
-    "004-git/github工作流实例.md",
     "007-cmake/001-CMake 简介.md",
     "007-cmake/002-CMake 构建流程.md",
     "007-cmake/004-CMake 高级特性.md",
