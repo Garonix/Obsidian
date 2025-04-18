@@ -1,4 +1,4 @@
-**1. docker-compose 配置文件：**
+**1. docker-compose 配置：**
 
 ```yaml
 services:
