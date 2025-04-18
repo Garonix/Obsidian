@@ -11,12 +11,14 @@
             "id": "00450dc85a11ea53",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "017-软考-系统架构设计师/系统架构设计师考试32小时通关-第2版（2024).pdf"
+                "file": "004-git/git 子模块.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "系统架构设计师考试32小时通关-第2版（2024)"
+              "icon": "lucide-file",
+              "title": "git 子模块"
             }
           }
         ]
@@ -163,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00450dc85a11ea53",
+  "active": "d1932086d846e344",
   "lastOpenFiles": [
-    "000-杂项/000-想法.md",
     "017-软考-系统架构设计师/系统架构设计师考试32小时通关-第2版（2024).pdf",
+    "000-杂项/000-想法.md",
     "018-想法",
     "README.md",
     "015-redash二次开发/修改依赖.md",
@@ -208,8 +209,8 @@
     "004-C++/000-项目结构.md",
     "001-docker/docker 使用代理proxy拉取镜像.md",
     "004-git",
-    "016-ELK/docker compose 安装ELK单节点集群.md",
-    "016-ELK",
+    "016-elk/docker compose 安装ELK单节点集群.md",
+    "016-elk",
     "005-windows/附件/Pasted image 20250408152655.png",
     "005-windows/附件",
     "013-1Panel改造/附件/Pasted image 20250314111643.png",
