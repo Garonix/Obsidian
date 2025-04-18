@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "016-elkk/docker compose 安装ELK单节点集群.md",
+                "file": "016-elk/docker compose 安装ELK单节点集群.md",
                 "mode": "source",
                 "source": false
               },
@@ -181,7 +181,7 @@
   "active": "00450dc85a11ea53",
   "lastOpenFiles": [
     "010-k8s/k8s 安装.md",
-    "016-elkk/docker compose 安装ELK单节点集群.md",
+    "016-elk/docker compose 安装ELK单节点集群.md",
     "004-git/git 子模块.md",
     "002-linux/001-常用命令与工具/未命名.md",
     "017-软考-系统架构设计师/系统架构设计师考试32小时通关-第2版（2024).pdf",
@@ -211,7 +211,7 @@
     "004-C++/ChatGPT-C++_Class_Syntax_Fix.md",
     "004-C++/000-项目结构.md",
     "004-git",
-    "016-elkk",
+    "016-elk",
     "005-windows/附件/Pasted image 20250408152655.png",
     "005-windows/附件",
     "013-1Panel改造/附件/Pasted image 20250314111643.png",
