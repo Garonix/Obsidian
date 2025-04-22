@@ -181,7 +181,9 @@
   },
   "active": "00450dc85a11ea53",
   "lastOpenFiles": [
+    "015-redash二次开发/本地开发.md",
     "015-redash二次开发/数据源分析.md",
+    "015-redash二次开发/后端修改与前端渲染.md",
     "015-redash二次开发/修改依赖.md",
     "016-elk/docker compose 安装ELK单节点集群.md",
     "010-k8s/k8s 安装.md",
@@ -192,8 +194,6 @@
     "018-想法",
     "README.md",
     "017-软考-系统架构设计师",
-    "015-redash二次开发/后端修改与前端渲染.md",
-    "015-redash二次开发/本地开发.md",
     "004-git/github工作流实例.md",
     "000-杂项/simpread-GitHub 学生认证.md",
     "000-杂项/Untitled.md",
