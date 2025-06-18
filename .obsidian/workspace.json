@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b34ae267882ab456",
+        "id": "2a34df19e40da6a2",
         "type": "tabs",
         "children": [
           {
-            "id": "00450dc85a11ea53",
+            "id": "6f839abdeaa16c54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "015-redash二次开发/后端修改与前端渲染.md",
+                "file": "000-杂项/pc 端百度云取消自动升级.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "后端修改与前端渲染"
+              "title": "pc 端百度云取消自动升级"
             }
           }
         ]
@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,57 +175,58 @@
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "iconic:打开规则书": false
     }
   },
-  "active": "00450dc85a11ea53",
+  "active": "6f839abdeaa16c54",
   "lastOpenFiles": [
-    "015-redash二次开发/本地开发.md",
-    "015-redash二次开发/数据源分析.md",
-    "015-redash二次开发/后端修改与前端渲染.md",
-    "015-redash二次开发/修改依赖.md",
-    "016-elk/docker compose 安装ELK单节点集群.md",
-    "010-k8s/k8s 安装.md",
-    "004-git/git 子模块.md",
-    "002-linux/001-常用命令与工具/未命名.md",
-    "017-软考-系统架构设计师/系统架构设计师考试32小时通关-第2版（2024).pdf",
+    "校园周边安全项目规划书/校园周边安全保障系统技术总体设计方案.md",
+    "开发项目/新平台告警接口文档.md",
+    "校园周边安全项目规划书",
+    "001-docker/docker 使用代理proxy拉取镜像.md",
+    "002-linux/代理使用方法.md",
+    "开发项目/临时.md",
+    "002-linux/服务器代理流程.md",
+    "飞牛OS/创建网桥.md",
+    "飞牛OS/恢复docker unless-stopped选项.md",
+    "飞牛OS/核显单根虚拟化 SR-IOV.md",
+    "分享会/内网穿透.md",
+    "开发项目/奥格.md",
+    "分享会",
     "000-杂项/000-想法.md",
-    "018-想法",
-    "README.md",
-    "017-软考-系统架构设计师",
+    "002-linux/修改nginx上传文件限制.md",
+    "002-linux/解决ubuntu ufw开启时，kvm虚拟机网络全部无法访问.md",
+    "开发项目/rsshui.md",
+    "飞牛OS/取消系统自动挂载硬盘.md",
+    "010-k8s/k8s 安装.md",
+    "004-git/git 提交tag.md",
+    "004-git/git 子模块.md",
     "004-git/github工作流实例.md",
-    "000-杂项/simpread-GitHub 学生认证.md",
-    "000-杂项/Untitled.md",
-    "006-游戏/泰拉瑞亚TShock配置文件全文翻译.md",
-    "000-杂项/index.md",
-    "007-cmake/001-CMake 简介.md",
-    "007-cmake/002-CMake 构建流程.md",
-    "007-cmake/004-CMake 高级特性.md",
+    "001-docker/docker 实用命令.md",
+    "000-杂项/Ollama 安装到其他盘.md",
+    "015-redash二次开发/本地开发.md",
+    "001-docker/docker 安装.md",
+    "015-redash二次开发/后端修改与前端渲染.md",
+    "015-redash二次开发/数据源分析.md",
+    "飞牛OS",
+    "开发项目/附件/Pasted image 20250512101721.png",
+    "开发项目/附件",
+    "开发项目",
+    "017-软考-系统架构设计师/3. 系统架构设计师-一本通精华知识点.pdf",
+    "未命名.canvas",
+    "017-软考-系统架构设计师/系统架构设计师考试32小时通关-第2版（2024).pdf",
+    "018-想法",
+    "017-软考-系统架构设计师",
     "007-cmake/附件/CMake构建流程2.png",
-    "001-docker/docker compose 安装alist.md",
-    "011-shell/shell刷题总结.md",
-    "011-shell/常用命令.md",
-    "009-面试/001-先前工作.md",
-    "004-C++/ChatGPT-虚函数.md",
-    "004-C++/001-C++部分1.md",
-    "004-C++/ChatGPT-C++_Class_Syntax_Fix.md",
-    "004-C++/000-项目结构.md",
     "004-git",
-    "016-elk",
     "005-windows/附件/Pasted image 20250408152655.png",
-    "005-windows/附件",
     "013-1Panel改造/附件/Pasted image 20250314111643.png",
     "013-1Panel改造/附件/Pasted image 20250313151655.png",
     "013-1Panel改造/附件/Pasted image 20250313151314.png",
-    "013-1Panel改造/附件",
-    "013-1Panel改造",
-    "012-精简grafana/源码分析/004-Grafana国际化补充-批次4.json",
-    "012-精简grafana/源码分析/004-Grafana国际化补充-批次3.json",
     "009-面试/示例/附件/Pasted image 20250214144010.png",
     "009-面试/示例/附件/Pasted image 20250214143923.png",
     "007-cmake/附件/CMake构建流程1.png",
-    "008-旅游/001-重庆/附件/QQ_1731587442569.png",
-    "008-旅游/001-重庆/241130/附件/QQ_1731586873284.png",
-    "未命名.canvas"
+    "008-旅游/001-重庆/附件/QQ_1731587442569.png"
   ]
 }

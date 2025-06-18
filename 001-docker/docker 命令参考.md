@@ -1,11 +1,11 @@
 ## 基本命令
-| **命令**                | **功能**                             | **示例**                                     |
-| --------------------- | ---------------------------------- | ------------------------------------------ |
-| `docker version`      | 显示 Docker 客户端和守护进程的版本信息            | `docker version`                           |
-| `docker info`         | 显示 Docker 系统的详细信息                  | `docker info`                              |
-| `docker login`        | 登录 Docker 仓库                       | `docker login`                             |
-| `docker logout`       | 登出 Docker 仓库                       | `docker logout`                            |
-| `docker help`         | 显示Docker命令帮助信息                     | `docker help`                              |
+| **命令**           | **功能**                  | **示例**           |
+| ---------------- | ----------------------- | ---------------- |
+| `docker version` | 显示 Docker 客户端和守护进程的版本信息 | `docker version` |
+| `docker info`    | 显示 Docker 系统的详细信息       | `docker info`    |
+| `docker login`   | 登录 Docker 仓库            | `docker login`   |
+| `docker logout`  | 登出 Docker 仓库            | `docker logout`  |
+| `docker help`    | 显示Docker命令帮助信息          | `docker help`    |
 
 ## 容器生命周期管理
 | **命令**                | **功能**                             | **示例**                                     |

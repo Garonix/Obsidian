@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=favicon.ico main.py --add-data "ui;ui" --add-data "config;config"  --add-data "log;log"
