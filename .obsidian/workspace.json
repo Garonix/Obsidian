@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GO全栈学习指南/006-用数据库重构CRUD API.md",
+                "file": "001-docker/docker 实用命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "006-用数据库重构CRUD API"
+              "title": "docker 实用命令"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dsn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,10 +197,20 @@
   },
   "active": "844cbed37d2d585a",
   "lastOpenFiles": [
+    "001-docker/docker 命令参考.md",
+    "000-杂项/cursor常用指令.md",
+    "000-杂项/V2Ray 自定义路由设置规则.md",
+    "002-linux/查询用户id.md",
+    "002-linux/纯IPV4 VPS添加IPV6方法.md",
+    "002-linux/代理使用方法.md",
+    "002-linux/服务器代理流程.md",
+    "002-linux/解决ubuntu ufw开启时，kvm虚拟机网络全部无法访问.md",
+    "002-linux/修改nginx上传文件限制.md",
+    "002-linux/用户shell类型.md",
+    "GO全栈学习指南/006-用数据库重构CRUD API.md",
     "GO全栈学习指南/006.5-GO后端复习.md",
     "000-杂项/simpread-GitHub 学生认证.md",
     "000-杂项/img-0.md",
-    "GO全栈学习指南/006-用数据库重构CRUD API.md",
     "GO全栈学习指南/007.5-转型期：从“跟练者”到“创造者”的过渡。.md",
     "GO全栈学习指南/007-构建简易web前端.md",
     "GO全栈学习指南/005-构建完整的CRUD(基于内存) API.md",
@@ -215,17 +224,7 @@
     "飞牛OS/取消系统自动挂载硬盘.md",
     "000-杂项/PVE时间同步.md",
     "000-杂项/pc 端百度云取消自动升级.md",
-    "000-杂项/000-想法.md",
-    "校园周边安全项目规划书/校园周边安全保障系统技术总体设计方案.md",
-    "开发项目/新平台告警接口文档.md",
     "校园周边安全项目规划书",
-    "001-docker/docker 使用代理proxy拉取镜像.md",
-    "002-linux/代理使用方法.md",
-    "开发项目/临时.md",
-    "002-linux/服务器代理流程.md",
-    "飞牛OS/恢复docker unless-stopped选项.md",
-    "飞牛OS/核显单根虚拟化 SR-IOV.md",
-    "开发项目/奥格.md",
     "分享会",
     "飞牛OS",
     "开发项目/附件/Pasted image 20250512101721.png",
