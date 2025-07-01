@@ -25,14 +25,14 @@
             "id": "844cbed37d2d585a",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://daijunfeng.com/archive/plugin/github-student.html",
-                "title": "GitHub 学生认证 | 清淨",
-                "mode": "webview"
+                "file": "GO全栈学习指南/006-用数据库重构CRUD API.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "GitHub 学生认证 | 清淨"
+              "icon": "lucide-file",
+              "title": "006-用数据库重构CRUD API"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dsn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,12 +198,12 @@
   },
   "active": "844cbed37d2d585a",
   "lastOpenFiles": [
+    "GO全栈学习指南/006.5-GO后端复习.md",
     "000-杂项/simpread-GitHub 学生认证.md",
     "000-杂项/img-0.md",
     "GO全栈学习指南/006-用数据库重构CRUD API.md",
     "GO全栈学习指南/007.5-转型期：从“跟练者”到“创造者”的过渡。.md",
     "GO全栈学习指南/007-构建简易web前端.md",
-    "GO全栈学习指南/006.5-GO后端复习.md",
     "GO全栈学习指南/005-构建完整的CRUD(基于内存) API.md",
     "GO全栈学习指南/004-引入Gin框架，重构web服务器.md",
     "GO全栈学习指南/003-GO服务器返回JSON数据.md",
