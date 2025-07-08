@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "简历/未命名.md",
+                "file": "简历/未命名 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "未命名 1"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "367dfb29549b5663",
   "lastOpenFiles": [
-    "002-linux/Git常用操作指南.md",
     "简历/未命名.md",
+    "简历/未命名 1.md",
+    "002-linux/Git常用操作指南.md",
     "简历",
     "004-git/git 提交tag.md",
     "004-git/git 子模块.md",
@@ -208,7 +209,6 @@
     "GO全栈学习指南/005-构建完整的CRUD(基于内存) API.md",
     "GO全栈学习指南/004-引入Gin框架，重构web服务器.md",
     "GO全栈学习指南/003-GO服务器返回JSON数据.md",
-    "GO全栈学习指南/002-基础web服务器.md",
     "GO全栈学习指南",
     "校园周边安全项目规划书",
     "分享会",
