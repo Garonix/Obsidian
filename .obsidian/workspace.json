@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "简历/面试.md",
+                "file": "简历/半结构化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "面试"
+              "title": "半结构化"
             }
           }
         ]
@@ -182,10 +182,11 @@
   },
   "active": "367dfb29549b5663",
   "lastOpenFiles": [
+    "简历/面试.md",
+    "简历/半结构化.md",
     "简历/附件/Pasted image 20250729142506.png",
     "简历/附件",
     "011-shell/常用命令.md",
-    "简历/面试.md",
     "005-windows/微软拼音输入法添加小鹤双拼方案.md",
     "005-windows/微软拼音快捷输入时间戳.md",
     "005-windows/删除此电脑中第三方软件图标.md",
@@ -227,7 +228,6 @@
     "013-1Panel改造/附件/Pasted image 20250313151314.png",
     "009-面试/示例/附件/Pasted image 20250214144010.png",
     "009-面试/示例/附件/Pasted image 20250214143923.png",
-    "007-cmake/附件/CMake构建流程1.png",
-    "008-旅游/001-重庆/附件/QQ_1731587442569.png"
+    "007-cmake/附件/CMake构建流程1.png"
   ]
 }
