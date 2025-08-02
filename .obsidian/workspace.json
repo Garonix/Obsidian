@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005-windows/Windows 11 下安全并正确地使用 SMB 共享.md",
+                "file": "简历/结构化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows 11 下安全并正确地使用 SMB 共享"
+              "title": "结构化"
+            }
+          },
+          {
+            "id": "c5ed83bde8125d6b",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://zhuanlan.zhihu.com/p/568670607",
+                "title": "结构化面试要怎么准备呢？ - 知乎",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "结构化面试要怎么准备呢？ - 知乎"
             }
           }
         ]
@@ -182,6 +196,7 @@
   },
   "active": "367dfb29549b5663",
   "lastOpenFiles": [
+    "简历/附件/Pasted image 20250802131214.png",
     "简历/结构化.md",
     "005-windows/Windows 11 下安全并正确地使用 SMB 共享.md",
     "简历/半结构化.md",
@@ -210,7 +225,6 @@
     "001-docker/docker 命令参考.md",
     "000-杂项/cursor常用指令.md",
     "000-杂项/V2Ray 自定义路由设置规则.md",
-    "002-linux/查询用户id.md",
     "GO全栈学习指南",
     "校园周边安全项目规划书",
     "分享会",
